@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Request for AdvanceReport for date Generation POST,30,84,73,108,9.45,0.000%,28.59867,37.42,12.09,1340.0
+TOTAL,30,84,73,108,9.45,0.000%,28.59867,37.42,12.09,1340.0
